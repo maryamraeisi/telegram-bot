@@ -136,6 +136,6 @@ public class MaryamBot extends TelegramLongPollingBot {
 
     @Override
     public String getBotToken() {
-        return "1922716763:AAHQkJVYSGGB4RpCHKy39BA_Vo0GzYRf5W0";
+        return "bot-token";
     }
 }
